@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7IwdM7+DwUq7RQly/ttbZQAAAAACAAAAAAAQZgAAAAEAACAAAAA4wew8AuH3h201LGAIBq0d67XQrJtIeJ54a/QTtbHzZQAAAAAOgAAAAAIAACAAAADrl2hS0551bV9FwbGNHzv82g+goS3O2H+VxNghO+9fToAAAACqpnbCF9MDdDZ1iC09ioH9pRjT9+mWY2IK1UC216+UNSzORsV2Zb7ZXjhoPD/uY+GDgiIbz1SrmtME7OuvEk4hrtVNHAmm0Nbnm2zNh1gY9cxyFROKwThxZCWd3Pig4Pt5G6JAvjEnfHkJmHoY2VpcvjM9kKMA/mHuDSNV3tgCn0AAAADrZMksKELetEzeJNnhkfjHI/jtQUhr+TvXbQWk/N0Fb2bUUiQ+TUesCux77f8HGOfXQnLZdEtfgMOsozD4xIoT</EncryptedPassword>
+    <History>False|2023-02-10T20:45:44.3348565Z;False|2023-02-10T14:33:51.7003744-06:00;False|2023-02-10T14:29:18.9822920-06:00;False|2023-02-10T14:22:53.9770983-06:00;False|2023-02-10T14:14:24.6113859-06:00;False|2023-02-10T14:04:25.0496587-06:00;False|2023-02-10T13:58:58.0479521-06:00;False|2023-02-10T13:57:04.2721990-06:00;False|2023-02-10T13:56:24.3147504-06:00;False|2023-02-10T13:55:38.6883786-06:00;False|2023-02-10T13:53:38.9522574-06:00;False|2023-02-10T13:52:07.7149175-06:00;False|2023-02-10T13:39:31.5183207-06:00;False|2023-02-10T13:25:45.9746797-06:00;False|2023-02-10T13:20:30.7310225-06:00;False|2023-02-09T20:30:25.5069303-06:00;False|2023-02-09T19:45:13.9129658-06:00;False|2023-02-09T19:44:13.7329735-06:00;False|2023-02-09T19:39:29.4379102-06:00;False|2023-02-09T19:38:23.1789538-06:00;False|2023-02-09T19:35:25.8237622-06:00;False|2023-02-09T19:27:29.7197589-06:00;False|2023-02-09T19:13:07.5524280-06:00;False|2023-02-09T19:07:47.0633468-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="PeliculasAPI.ApplicationDbContext">
+      <Value>Data Source=tcp:peliculasapidbserver22ibk.database.windows.net,1433%3bInitial Catalog=PeliculasAPI_db%3bUser Id=mikelibk%40peliculasapidbserver22ibk%3bPassword=Aa123456!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2023-02-10T01:06:04.219667Z"
+    },
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2023-02-10T01:06:11.4036562Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-02-10T01:05:50.5544494Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2023-02-10T01:06:14.3722682Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2023-02-10T01:38:47.9615294Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "73d987f5-84ed-4834-b586-6379ab856805"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "PeliculasAPI"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "PeliculasAPI"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "73d987f5-84ed-4834-b586-6379ab856805"
+    }
+  }
+}
